@@ -1,0 +1,157 @@
+C:\Users\Kapil\source\repos\Giled\Giled\bin\Debug\Giled.exe.config
+C:\Users\Kapil\source\repos\Giled\Giled\bin\Debug\Giled.exe
+C:\Users\Kapil\source\repos\Giled\Giled\bin\Debug\Giled.pdb
+C:\Users\Kapil\source\repos\Giled\Giled\obj\Debug\Giled.csproj.AssemblyReference.cache
+C:\Users\Kapil\source\repos\Giled\Giled\obj\Debug\Giled.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kapil\source\repos\Giled\Giled\obj\Debug\Giled.Giled.resources
+C:\Users\Kapil\source\repos\Giled\Giled\obj\Debug\Giled.Properties.Resources.resources
+C:\Users\Kapil\source\repos\Giled\Giled\obj\Debug\Giled.csproj.GenerateResource.cache
+C:\Users\Kapil\source\repos\Giled\Giled\obj\Debug\Giled.csproj.CoreCompileInputs.cache
+C:\Users\Kapil\source\repos\Giled\Giled\obj\Debug\Giled.exe
+C:\Users\Kapil\source\repos\Giled\Giled\obj\Debug\Giled.pdb
+C:\Users\Aditya Raj\source\repos\Giled\Giled\bin\Debug\Giled.exe.config
+C:\Users\Aditya Raj\source\repos\Giled\Giled\bin\Debug\Giled.exe
+C:\Users\Aditya Raj\source\repos\Giled\Giled\bin\Debug\Giled.pdb
+C:\Users\Aditya Raj\source\repos\Giled\Giled\obj\Debug\Giled.csproj.AssemblyReference.cache
+C:\Users\Aditya Raj\source\repos\Giled\Giled\obj\Debug\Giled.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aditya Raj\source\repos\Giled\Giled\obj\Debug\Giled.Giled.resources
+C:\Users\Aditya Raj\source\repos\Giled\Giled\obj\Debug\Giled.Properties.Resources.resources
+C:\Users\Aditya Raj\source\repos\Giled\Giled\obj\Debug\Giled.csproj.GenerateResource.cache
+C:\Users\Aditya Raj\source\repos\Giled\Giled\obj\Debug\Giled.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Raj\source\repos\Giled\Giled\obj\Debug\Giled.exe
+C:\Users\Aditya Raj\source\repos\Giled\Giled\obj\Debug\Giled.pdb
+C:\Users\Aditya Raj\source\repos\Giled\Giled\bin\Debug\FireSharp.dll
+C:\Users\Aditya Raj\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Aditya Raj\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Aditya Raj\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Aditya Raj\source\repos\Giled\Giled\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aditya Raj\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Aditya Raj\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Aditya Raj\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Aditya Raj\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Aditya Raj\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Aditya Raj\source\repos\Giled\Giled\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aditya Raj\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Aditya Raj\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Aditya Raj\source\repos\Giled\Giled\obj\Debug\Giled.csproj.App.config
+C:\Users\Aditya Raj\source\repos\Giled\Giled\obj\Debug\Giled.csproj.CopyComplete
+C:\Users\Kapil\source\repos\Giled\Giled\bin\Debug\FireSharp.dll
+C:\Users\Kapil\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Kapil\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Kapil\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Kapil\source\repos\Giled\Giled\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kapil\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Kapil\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Kapil\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Kapil\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Kapil\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Kapil\source\repos\Giled\Giled\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kapil\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Kapil\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Kapil\source\repos\Giled\Giled\obj\Debug\Giled.csproj.App.config
+C:\Users\Kapil\source\repos\Giled\Giled\obj\Debug\Giled.csproj.CopyComplete
+C:\Users\Kapil\source\repos\Giled\Giled\obj\Debug\Giled.HomePage.resources
+C:\Users\HP\source\repos\Giled\Giled\bin\Debug\Giled.exe.config
+C:\Users\HP\source\repos\Giled\Giled\bin\Debug\Giled.exe
+C:\Users\HP\source\repos\Giled\Giled\bin\Debug\Giled.pdb
+C:\Users\HP\source\repos\Giled\Giled\bin\Debug\FireSharp.dll
+C:\Users\HP\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\HP\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\HP\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\HP\source\repos\Giled\Giled\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\HP\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\HP\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\HP\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\HP\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\HP\source\repos\Giled\Giled\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\HP\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\HP\source\repos\Giled\Giled\obj\Debug\Giled.csproj.App.config
+C:\Users\HP\source\repos\Giled\Giled\obj\Debug\Giled.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Giled\Giled\obj\Debug\Giled.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Giled\Giled\obj\Debug\Giled.Giled.resources
+C:\Users\HP\source\repos\Giled\Giled\obj\Debug\Giled.HomePage.resources
+C:\Users\HP\source\repos\Giled\Giled\obj\Debug\Giled.Properties.Resources.resources
+C:\Users\HP\source\repos\Giled\Giled\obj\Debug\Giled.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Giled\Giled\obj\Debug\Giled.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Giled\Giled\obj\Debug\Giled.csproj.CopyComplete
+C:\Users\HP\source\repos\Giled\Giled\obj\Debug\Giled.exe
+C:\Users\HP\source\repos\Giled\Giled\obj\Debug\Giled.pdb
+C:\Users\Aditya Raj\source\repos\Giled\Giled\obj\Debug\Giled.HomePage.resources
+C:\Users\HP\source\repos\Giled\Giled\obj\Debug\Giled.Ledger.resources
+C:\Users\Aditya Raj\source\repos\Giled\Giled\obj\Debug\Giled.Ledger.resources
+C:\Users\Kapil\source\repos\Giled\Giled\obj\Debug\Giled.Ledger.resources
+C:\Users\Kapil\source\repos\Giled\Giled\obj\Debug\Giled.csproj.ResolveComReference.cache
+C:\Users\Aditya Raj\source\repos\Giled\Giled\obj\Debug\Giled.csproj.ResolveComReference.cache
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\obj\Debug\Giled.csproj.App.config
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\obj\Debug\Giled.csproj.AssemblyReference.cache
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\obj\Debug\Giled.csproj.SuggestedBindingRedirects.cache
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\obj\Debug\Giled.csproj.ResolveComReference.cache
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\obj\Debug\Giled.Giled.resources
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\obj\Debug\Giled.HomePage.resources
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\obj\Debug\Giled.Ledger.resources
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\obj\Debug\Giled.Properties.Resources.resources
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\obj\Debug\Giled.csproj.GenerateResource.cache
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\obj\Debug\Giled.csproj.CoreCompileInputs.cache
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\obj\Debug\Giled.exe
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\obj\Debug\Giled.pdb
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\bin\Debug\Giled.exe.config
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\bin\Debug\Giled.exe
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\bin\Debug\Giled.pdb
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\bin\Debug\FireSharp.dll
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\bin\Debug\Newtonsoft.Json.dll
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\bin\Debug\Newtonsoft.Json.xml
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\krishnasai.alle\source\repos\Giled\Giled\obj\Debug\Giled.csproj.CopyComplete
+C:\Users\HP\source\repos\Giled\Giled\obj\Debug\Giled.csproj.ResolveComReference.cache
+C:\Users\be0030\source\repos\Giled\Giled\bin\Debug\Giled.exe.config
+C:\Users\be0030\source\repos\Giled\Giled\bin\Debug\Giled.exe
+C:\Users\be0030\source\repos\Giled\Giled\bin\Debug\Giled.pdb
+C:\Users\be0030\source\repos\Giled\Giled\bin\Debug\FireSharp.dll
+C:\Users\be0030\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\be0030\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\be0030\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\be0030\source\repos\Giled\Giled\bin\Debug\Newtonsoft.Json.dll
+C:\Users\be0030\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\be0030\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\be0030\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\be0030\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\be0030\source\repos\Giled\Giled\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\be0030\source\repos\Giled\Giled\bin\Debug\Newtonsoft.Json.xml
+C:\Users\be0030\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\be0030\source\repos\Giled\Giled\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\be0030\source\repos\Giled\Giled\obj\Debug\Giled.csproj.App.config
+C:\Users\be0030\source\repos\Giled\Giled\obj\Debug\Giled.csproj.AssemblyReference.cache
+C:\Users\be0030\source\repos\Giled\Giled\obj\Debug\Giled.csproj.SuggestedBindingRedirects.cache
+C:\Users\be0030\source\repos\Giled\Giled\obj\Debug\Giled.csproj.ResolveComReference.cache
+C:\Users\be0030\source\repos\Giled\Giled\obj\Debug\Giled.Giled.resources
+C:\Users\be0030\source\repos\Giled\Giled\obj\Debug\Giled.HomePage.resources
+C:\Users\be0030\source\repos\Giled\Giled\obj\Debug\Giled.Ledger.resources
+C:\Users\be0030\source\repos\Giled\Giled\obj\Debug\Giled.Properties.Resources.resources
+C:\Users\be0030\source\repos\Giled\Giled\obj\Debug\Giled.csproj.GenerateResource.cache
+C:\Users\be0030\source\repos\Giled\Giled\obj\Debug\Giled.csproj.CoreCompileInputs.cache
+C:\Users\be0030\source\repos\Giled\Giled\obj\Debug\Giled.csproj.CopyComplete
+C:\Users\be0030\source\repos\Giled\Giled\obj\Debug\Giled.exe
+C:\Users\be0030\source\repos\Giled\Giled\obj\Debug\Giled.pdb
+C:\Users\HP\source\repos\Giled\Giled\bin\Debug\Giled.exe.manifest
+C:\Users\HP\source\repos\Giled\Giled\bin\Debug\Giled.application
+C:\Users\HP\source\repos\Giled\Giled\obj\Debug\Giled.exe.manifest
+C:\Users\HP\source\repos\Giled\Giled\obj\Debug\Giled.application
+C:\Users\Kapil\source\repos\Giled\Giled\bin\Debug\Giled.exe.manifest
+C:\Users\Kapil\source\repos\Giled\Giled\bin\Debug\Giled.application
+C:\Users\Kapil\source\repos\Giled\Giled\obj\Debug\Giled.exe.manifest
+C:\Users\Kapil\source\repos\Giled\Giled\obj\Debug\Giled.application
+C:\Users\be0030\source\repos\Giled\Giled\bin\Debug\Giled.exe.manifest
+C:\Users\be0030\source\repos\Giled\Giled\bin\Debug\Giled.application
+C:\Users\be0030\source\repos\Giled\Giled\obj\Debug\Giled.exe.manifest
+C:\Users\be0030\source\repos\Giled\Giled\obj\Debug\Giled.application
